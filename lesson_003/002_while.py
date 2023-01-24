@@ -25,9 +25,9 @@ while n :
 '''
 
 '''
-# yes 입력시 반복
 text = 'y'
 while text == 'y' :
+# yes 입력시 반복
     text = input('yes : ')
 print('end')
 '''
